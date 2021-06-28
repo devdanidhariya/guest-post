@@ -14,7 +14,7 @@ This exercise is about creating an interface in Front-end site of website, so th
 
 ## Description
 
-Using this plug-in user can create beautiful post submit form. 
+Using this plug-in user can create beautiful guest post submit form. 
 
 This exercise is about creating an interface in Front-end site of website, so that guest authors
 can submit posts from front-side. Using this interface, the guest author should be able to create
@@ -27,6 +27,19 @@ Guest Post is the most powerful and intuitive WordPress plug-in to create custom
 - Demo URL: https://multidots.devidas.in/
 - Add guest post page: https://multidots.devidas.in/add-post/
 - List guest post page: https://multidots.devidas.in/list-guest-posts/
+
+## Multidots review team
+
+### login credentials
+##### Administrator user
+- Login URL: https://multidots.devidas.in/wp-admin
+- User name: multidots
+- Password: 4#R#c#unHaYvtQpBKVqLiN2)
+
+##### Author role user
+- Login URL: https://multidots.devidas.in/wp-admin
+- User name: md_author
+- Password:  KMFhsMaQ^la*f$(DykksA@XS
 
 ## Installation
 
