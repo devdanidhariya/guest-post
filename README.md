@@ -24,17 +24,18 @@ this author will be listed.
 Guest Post is the most powerful and intuitive WordPress plug-in to create custom post type form builder. Fully responsive and works with any WordPress theme. Create beautiful post and tell stories without any code.
 
 ## Demo
-- Demo URL: https://multidots.devidas.in/
-- Add guest post page: https://multidots.devidas.in/add-post/
-- List guest post page: https://multidots.devidas.in/list-guest-posts/
+- Demo URL: https://gp.devidas.in/
+- Add guest post page: https://go.devidas.in/add-post/
+- List guest post page: https://gp.devidas.in/list-guest-posts/
 
 ## Multidots review team
 
 ### login credentials
 ##### Administrator user
-- Login URL: https://multidots.devidas.in/wp-admin
-- User name: multidots
-- Password: 4#R#c#unHaYvtQpBKVqLiN2)
+- Login URL: https://gp.devidas.in/wp-admin
+- User name: gpauthor
+- Password: S*^9(oKTfEQYsqfEPX3n5Y$G
+
 
 ##### Author role user
 - Login URL: https://multidots.devidas.in/wp-admin
@@ -92,13 +93,13 @@ $ wp guest_post get_gp_author
 
 
 * ### Add guest post form
-![GitHub Logo](http://multidots.devidas.in/wp-content/uploads/2021/06/guest-post-add-post-form.png)
+![GitHub Logo](https://gp.devidas.in/wp-content/uploads/sites/2/2021/08/guest-post-add-post-form-3.png)
 
 * ### Pending status for admin approval post list
-![GitHub Logo](http://multidots.devidas.in/wp-content/uploads/2021/06/guest-posts-review-post-list.png)
+![GitHub Logo](http://gp.devidas.in/wp-content/uploads/sites/2/2021/08/guest-posts-review-post-list.png)
 
 * ### WP-CLI screen
-![GitHub Logo](http://multidots.devidas.in/wp-content/uploads/2021/06/wp-cli.png)
+![GitHub Logo](https://gp.devidas.in/wp-content/uploads/sites/2/2021/08/guest-post-wp-cli.png)
 
 
 ## Change log
